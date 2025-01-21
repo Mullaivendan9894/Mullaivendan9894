@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/4c2b9c0b-ecaa-4007-8819-6d3dc951e1a4" width="100%" alt="Banner">
 </div>
 
-# Hi there, I'm Mullai! 👋
-
 I'm an aspiring data scientist passionate about using data to solve real-world problems. I enjoy exploring datasets, building machine learning models, and extracting actionable insights. I'm currently expanding my skillset in deep learning, NLP, and Generative AI.
 
 ---
