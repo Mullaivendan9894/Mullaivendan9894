@@ -14,6 +14,8 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 - 📊 Transforming data into impactful insights  
 - 💡 Fun Fact: I'm a **pattern explorer** and love challenging datasets!
 
+> _"The more errors you make, the cleverer you become"_  
+> — My Data Science Journey  
 ---
 
 ## 🛠️ Tools & Technologies
@@ -61,5 +63,4 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 
 Thanks for visiting! 😊 Let's connect and collaborate! 🚀
 
-> _"The more errors you make, the cleverer you become"_  
-> — My Data Science Journey  
+
