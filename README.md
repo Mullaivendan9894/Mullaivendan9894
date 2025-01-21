@@ -7,11 +7,10 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 ---
 
 ## 🧑‍💻 About Me
-
-- 🌱 Exploring **Deep Learning** and **LLMs**  
-- 🎯 Building **open-source contributions** and AI solutions  
-- 🤖 Crafting intelligence through **ML/DL/GenAI**  
-- 📊 Transforming data into impactful insights  
+ 
+- 🤖 Crafting intelligence through **ML/DL/GenAI** 
+- 📊 Transforming data into impactful insights
+- 🌱 Exploring **Deep Learning** and **LLMs** 
 - 💡 Fun Fact: I'm a **pattern explorer** and love challenging datasets!
 
 > _"The more errors you make, the cleverer you become"_  
