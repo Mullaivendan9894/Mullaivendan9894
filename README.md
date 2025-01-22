@@ -32,6 +32,7 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Matplotlib-FFDD00?style=for-the-badge&logo=matplotlib&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Seaborn-FFC425?style=for-the-badge&logo=seaborn&logoColor=black" /> 
+<img src= "https://img.shields.io/badge/Streamlit-FF8C00?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 
