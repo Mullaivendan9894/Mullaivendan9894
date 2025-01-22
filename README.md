@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d9c04087-ba9d-4693-830b-6b8f3e21620f" width="100%" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/87c3c04f-a1bb-4cd7-bef4-b86d19a49704" width="100%" alt="Banner">
 </div>
 
 I'm an aspiring data scientist passionate about using data to solve real-world problems. I enjoy exploring datasets, building machine learning models, and extracting actionable insights. I'm currently expanding my skillset in deep learning, NLP, and Generative AI.
