@@ -13,7 +13,7 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 - 🌱 Exploring **Deep Learning** and **LLMs** 
 - 💡 Fun Fact: I'm a **pattern explorer** and love challenging datasets!
 
-> _"The more errors you make, the cleverer you become"_  
+> _"Cleverness = ∑(Errors × Persistence)"_  
 > — My Data Science Journey  
 ---
 
