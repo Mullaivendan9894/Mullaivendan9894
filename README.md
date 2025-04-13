@@ -14,7 +14,7 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 - 💡 Fun Fact: I'm a **pattern explorer** and love challenging datasets!
 
 > _"Cleverness = ∑(Errors × Persistence)"_  
-> — My Data Science Journey  
+> — "_My Data Science Journey_"  
 ---
 
 ## 🛠️ Tools & Technologies
