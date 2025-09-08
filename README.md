@@ -63,7 +63,7 @@ Dynamic Data Science professional with a background in Urban Planning Consulting
 ---
 ### 🌐 Visit My Portfolio Website
 
-[![Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mullaivendan9894.github.io/Portfolio_website/)
+[![Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mullaivendan9894.github.io/Project_portfolio_website/)
 
 ---
 
