@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/87c3c04f-a1bb-4cd7-bef4-b86d19a49704" width="100%" alt="Banner">
 </div>
 
-I'm an aspiring data scientist passionate about using data to solve real-world problems. I enjoy exploring datasets, building machine learning models, and extracting actionable insights. I'm currently expanding my skillset in deep learning, NLP, and Generative AI.
+
+Dynamic Data Science professional with a background in Urban Planning Consulting, driven by a passion for solving complex problems through Machine Learning and AI. Proficient in Python (Pandas, NumPy), SQL, machine learning (Scikit-learn), and deep learning frameworks (PyTorch). Exploring advanced AI techniques, including Generative AI and AI Agents, to deliver innovative, data-driven solutions for real-world challenges.
 
 ---
 
@@ -39,17 +40,17 @@ I'm an aspiring data scientist passionate about using data to solve real-world p
 ---
 ### 🌟 Featured Projects
 
-- [**Netflix Recommendation System**](https://github.com/Mullaivendan9894/Machine-Learning/tree/master/Recommendation%20engine)  
-  Built a movie recommendation system using **collaborative filtering** and **SVD** to suggest personalized content based on user preferences.
+- [**Flipkart E-Commerce Chatbot**](https://github.com/Mullaivendan9894/Generative_AI/tree/master/E-commerce_chat_bot)            
+  Developed an AI-powered customer support chatbot using LLaMA 3.3 for intent classification, ChromaDB for FAQ retrieval, and SQLite for real-time product data.
 
-- [**Potato Disease Classification**](https://github.com/mullai9894/Deep-Learning/tree/master/CNN/Potato%20Disease%20Classification)  
-  Built a **CNN** to detect potato diseases with **data augmentation** techniques, achieving high accuracy on test data.
+- [**Document Intelligence RAG System**](https://github.com/Mullaivendan9894/Generative_AI/tree/master/Conversational_RAG_Chatbot)          
+  Built an AI chatbot for querying PDF documents using a LangChain RAG pipeline, LLaMA 3.3, and ChromaDB, achieving 95% retrieval accuracy with low latency.
 
-- [**Sentiment Analysis**](https://github.com/Mullaivendan9894/Deep-Learning/tree/master/NLP/Sentiment%20Analysis%20Project)  
-  Classified tweets into **Positive**, **Neutral**, or **Negative** sentiments using **NLP techniques** and **deep learning models**.
+- [**Car Damage Classifier**](https://github.com/Mullaivendan9894/Deep-Learning/tree/master/car_damage_classifier)       
+  Developed a ResNet50 CNN model to classify car damage, achieving 77.91% accuracy through fine-tuning and data augmentation for an automated damage detection system.
 
-- [**Conversational Q&A Chatbot**](https://github.com/mullai9894/Generative_AI/tree/master/Conversational%20Q%26A%20chatbot_RAG)  
-  Developed a chatbot with **LangChain** and **Groq**, integrating **Hugging Face models** and **FAISS** for PDF-based dynamic content retrieval using **RAG**.
+- [**Credit Risk Prediction Model**](https://github.com/Mullaivendan9894/Machine-Learning/tree/master/loan-default-prediction)         
+  Built an interpretable Logistic Regression model for credit risk prediction, achieving a 98.4% AUC and using SMOTE-Tomek to improve the detection of high-risk applicants.
 
 ---
 
