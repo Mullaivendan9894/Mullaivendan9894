@@ -62,7 +62,7 @@ Dynamic Data Science professional with a background in Urban Planning Consulting
 ---
 ### 🌐 Visit My Portfolio Website
 
-[![Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://codebasics.io/portfolio/Mullai-Vendan))
+[![Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebasics.io/portfolio/Mullai-Vendan)
 
 ---
 
